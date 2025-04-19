@@ -9,23 +9,29 @@
 </div>
 
 <!-- Animated Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Sahan!;I'm+a+C+S+undergraduate...;I+love+AI+and+ML;And+I’m+a+music+enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Sahan!;I'm+a+C+S+undergraduate...;Passionate+about+AI+and+ML;And+I’m+a+music+enthusiast)](https://git.io/typing-svg)
 
 <!-- Subtitle -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">A passionate Computer Science undergraduate from Sri Lanka 🌟</h2></summary>
+    <summary><h style="display: inline-block">A passionate software developer from <b>Sri Lanka</b></h></summary>
   </ul>
 </div>
 
 ---
 
-## 🌟 About Me
+## About Me
 
 - 🎓 Final-year student at University of Ruhuna  
 - 💻 Skilled in React, Spring Boot, Python, and microservices  
 - 🤖 Passionate about AI & Machine Learning  
 - 🎵 Fun fact: I play guitar, piano, and beat-box while coding!  
+
+---
+
+### 📫 Connect with Me
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahandevaka9@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahandevaka/)
 
 ---
 
