@@ -13,9 +13,7 @@
 
 <!-- Subtitle -->
 <div id="user-content-toc">
-  <ul align="">
-    <summary><h3 style="display: inline-block">A passionate software developer from <b>Sri Lanka</b></h3></summary>
-  </ul>
+    <summary><p style="display: inline-block;font-size:15pt">A passionate software developer from <b>Sri Lanka</b></p></summary>
 </div>
 
 - 🎓 Final-year student at University of Ruhuna  
