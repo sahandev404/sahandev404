@@ -13,25 +13,15 @@
 
 <!-- Subtitle -->
 <div id="user-content-toc">
-  <ul align="center">
-    <summary><h style="display: inline-block">A passionate software developer from <b>Sri Lanka</b></h></summary>
+  <ul align="">
+    <summary><h4 style="display: inline-block">A passionate software developer from <b>Sri Lanka</b></h4></summary>
   </ul>
 </div>
-
----
-
-## About Me
 
 - 🎓 Final-year student at University of Ruhuna  
 - 💻 Skilled in React, Spring Boot, Python, and microservices  
 - 🤖 Passionate about AI & Machine Learning  
 - 🎵 Fun fact: I play guitar, piano, and beat-box while coding!  
-
----
-
-### 📫 Connect with Me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahandevaka9@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahandevaka/)
 
 ---
 
@@ -89,21 +79,8 @@
 
 ---
 
-## 📬 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sahandevaka" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
-  </a>
-  <a href="mailto:sahandevaka9@gmail.com" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-6167d5ee-3f2f-4a76-8a99-0e28756639bd.png" alt="email" height="50" width="50" />
-  </a>
-</p>
-
-<!-- Profile Visitor Count -->
-<div align="center">
-  [![](https://visitcount.itsvg.in/api?id=sahandev404&icon=3&color=6)](https://visitcount.itsvg.in)
-</div>
+### 📫 Connect with Me
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahandevaka9@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahandevaka/)
 
 Let’s build something amazing together! 💖
 
