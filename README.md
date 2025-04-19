@@ -14,7 +14,7 @@
 <!-- Subtitle -->
 <div id="user-content-toc">
   <ul align="">
-    <summary><h4 style="display: inline-block">A passionate software developer from <b>Sri Lanka</b></h4></summary>
+    <summary><h3 style="display: inline-block">A passionate software developer from <b>Sri Lanka</b></h3></summary>
   </ul>
 </div>
 
