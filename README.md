@@ -1,15 +1,9 @@
-<!-- Horizontal divider (gradient) -->
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
-
 <!-- Greeting -->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hey there, I’m Sahan! 👋</h1></summary>
   </ul>
 </div>
-
-<!-- Animated Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Sahan!;I'm+a+C+S+undergraduate...;Passionate+about+AI+and+ML;And+I’m+a+music+enthusiast)](https://git.io/typing-svg)
 
 <!-- Subtitle -->
 <div id="user-content-toc">
@@ -20,22 +14,6 @@
 - 💻 Skilled in React, Spring Boot, Python, and microservices  
 - 🤖 Passionate about AI & Machine Learning  
 - 🎵 Fun fact: I play guitar, piano, and beat-box while coding!  
-
----
-
-## 📊 My GitHub Stats
-
-<p align="center">
-  <table align="center">
-    <tr border="none">
-      <td width="50%" align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=sahandev404&theme=dark&show_icons=true&count_private=true" />
-        <br></br>
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sahandev404&theme=dark&hide_border=false" /> 
-      </td>
-    </tr>
-  </table>
-</p>
 
 ---
 
@@ -61,9 +39,6 @@
 
 - **MrPark** 🅿️  
   An online parking system built with the MERN stack, providing secure and time-efficient booking for users.  
-
-- **Sri Lankan Wild Explorer** 🐘  
-  A wildlife educational app developed with Java and JavaFX. Learn about nature safely!  
 
 ---
 
